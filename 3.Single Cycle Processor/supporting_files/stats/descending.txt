@@ -1,0 +1,5 @@
+Static Instructions: 21
+Dynamic Instructions: 277
+Cycles Taken: 277
+Instruction Per Cycle: 1.0
+Frequency: 0.2 Gega Hertz

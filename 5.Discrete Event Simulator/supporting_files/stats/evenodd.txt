@@ -1,0 +1,7 @@
+Number of static instructions executed = 9
+Number of dynamic instructions executed = 6
+Number of cycles taken = 254
+IPC = 0.023622047
+Frequency = 1.0 GHz
+Number of stalls = 9
+Number of incorrect branches = 0
